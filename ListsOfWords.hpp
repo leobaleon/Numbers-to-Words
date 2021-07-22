@@ -1,3 +1,9 @@
+/*
+Author: Leonardo Baleon
+Description: This file is used for outputting strings to the console by Source.cpp
+Instructions: ListOfWords.hpp must be in the same directory as Source.cpp
+*/
+
 #include <string>
 
 std::string tens[] = { "", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety" };
