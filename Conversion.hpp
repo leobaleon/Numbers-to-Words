@@ -50,13 +50,13 @@ public:
 
 private:
     // string used to store user input
-	std::string input;
+    std::string input;
 
     // ends remaining used to determine which ending should be used in the large array
-	unsigned long endsRemaining;
-
-	// flags to decide between using ones values or teens values or adding dashes
-	bool tensFlag, teensFlag;
+    unsigned long endsRemaining;
+	
+    // flags to decide between using ones values or teens values or adding dashes
+    bool tensFlag, teensFlag;
 };
 
 #endif
