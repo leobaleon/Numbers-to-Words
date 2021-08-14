@@ -7,7 +7,6 @@ Instructions: the user must not enter anything other than digits.
 */
 
 #include "Conversion.hpp"
-#include "Conversion.cpp"
 
 // driver function that starts by setting some basic variables all calling
 // the necessary functions to get the program started.
